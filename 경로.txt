@@ -1,0 +1,12 @@
+red.yuhan.ac.kr/~y학번/web/final
+
+사용 DB : CSE2
+비밀번호 : php
+사용 USER : yuser2
+
+사용 Table :
+> z201707057 / z201707057a
+
+data 폴더의 권한 부여해주어야 함.(이미지 업로드 폴더)
+
+>> chmod 777 data
